@@ -63,5 +63,5 @@ qa-robot-framework-tests/
 
 ## 🌐 Conecte-se comigo
 
-📎 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-💼 [Portfólio](https://github.com/seu-usuario)
+📎 [LinkedIn](https://www.linkedin.com/in/thiagokuhn/)
+💼 [Portfólio](https://github.com/thiagoka)
